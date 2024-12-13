@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mihail Krustev 10a\\LinkedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98C7F7-1A08-444E-B4CD-3E60FE8B7169}|Zad1\\Zad1.csproj|c:\\mihail krustev 10a\\linkedlist\\zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F98C7F7-1A08-444E-B4CD-3E60FE8B7169}|Zad1\\Zad1.csproj|solutionrelative:zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 226,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Mihail Krustev 10a\\LinkedList\\Zad1\\Program.cs",
+              "RelativeDocumentMoniker": "Zad1\\Program.cs",
+              "ToolTip": "C:\\Mihail Krustev 10a\\LinkedList\\Zad1\\Program.cs",
+              "RelativeToolTip": "Zad1\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAqwBUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:14:47.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

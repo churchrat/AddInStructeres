@@ -1,0 +1,14 @@
+C:\Mihail Krustev 10a\LinkedList\Zad1\bin\Debug\net8.0\Zad1.exe
+C:\Mihail Krustev 10a\LinkedList\Zad1\bin\Debug\net8.0\Zad1.deps.json
+C:\Mihail Krustev 10a\LinkedList\Zad1\bin\Debug\net8.0\Zad1.runtimeconfig.json
+C:\Mihail Krustev 10a\LinkedList\Zad1\bin\Debug\net8.0\Zad1.dll
+C:\Mihail Krustev 10a\LinkedList\Zad1\bin\Debug\net8.0\Zad1.pdb
+C:\Mihail Krustev 10a\LinkedList\Zad1\obj\Debug\net8.0\Zad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mihail Krustev 10a\LinkedList\Zad1\obj\Debug\net8.0\Zad1.AssemblyInfoInputs.cache
+C:\Mihail Krustev 10a\LinkedList\Zad1\obj\Debug\net8.0\Zad1.AssemblyInfo.cs
+C:\Mihail Krustev 10a\LinkedList\Zad1\obj\Debug\net8.0\Zad1.csproj.CoreCompileInputs.cache
+C:\Mihail Krustev 10a\LinkedList\Zad1\obj\Debug\net8.0\Zad1.dll
+C:\Mihail Krustev 10a\LinkedList\Zad1\obj\Debug\net8.0\refint\Zad1.dll
+C:\Mihail Krustev 10a\LinkedList\Zad1\obj\Debug\net8.0\Zad1.pdb
+C:\Mihail Krustev 10a\LinkedList\Zad1\obj\Debug\net8.0\Zad1.genruntimeconfig.cache
+C:\Mihail Krustev 10a\LinkedList\Zad1\obj\Debug\net8.0\ref\Zad1.dll
